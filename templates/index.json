@@ -54,7 +54,7 @@
         "heading_JHVLKC": {
           "type": "heading",
           "settings": {
-            "heading": "这是dev 线下 本地启动 不刷新提交",
+            "heading": "这是dev 线下 本地启动 不刷新提交 不会冲突",
             "heading_size": "h1"
           }
         },
