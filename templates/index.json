@@ -48,51 +48,23 @@
         "show_text_below": false
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "all",
-        "products_to_show": 8,
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "columns_desktop": 4,
-        "enable_desktop_slider": false,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_4wJLRX": {
+    "rich_text_MgPgmC": {
       "type": "rich-text",
       "blocks": {
-        "heading_K79JXA": {
+        "heading_JHVLKC": {
           "type": "heading",
           "settings": {
-            "heading": "这是master",
+            "heading": "这是abc",
             "heading_size": "h1"
           }
         },
-        "text_7fmhMr": {
+        "text_8bnMzP": {
           "type": "text",
           "settings": {
             "text": "<p>和顧客分享品牌資訊、描述商品、進行公告，或歡迎顧客光臨您的商店。</p>"
           }
         },
-        "button_cMdL4c": {
+        "button_GEFNMw": {
           "type": "button",
           "settings": {
             "button_label": "按鈕標籤",
@@ -105,9 +77,9 @@
         }
       },
       "block_order": [
-        "heading_K79JXA",
-        "text_7fmhMr",
-        "button_cMdL4c"
+        "heading_JHVLKC",
+        "text_8bnMzP",
+        "button_GEFNMw"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -122,7 +94,6 @@
   },
   "order": [
     "image_banner",
-    "featured_collection",
-    "rich_text_4wJLRX"
+    "rich_text_MgPgmC"
   ]
 }
